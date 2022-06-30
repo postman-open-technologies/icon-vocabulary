@@ -243,6 +243,7 @@ This is a list of icons for the API space.
 <p><img width="100" src="https://kinlane-productions2.s3.amazonaws.com/icons-temp/image172.png" />Secrets</p>
 <p><img width="100" src="https://kinlane-productions2.s3.amazonaws.com/icons-temp/image54.png" />Security Reviews</p>
 <p><img width="100" src="https://kinlane-productions2.s3.amazonaws.com/icons-temp/image213.png" />Security</p>
+<p><img width="100" src="https://kinlane-productions2.s3.amazonaws.com/icons-temp/image350.png" />Selection</p>
 <p><img width="100" src="https://kinlane-productions2.s3.amazonaws.com/icons-temp/image250.png" />Self-Service</p>
 <p><img width="100" src="https://kinlane-productions2.s3.amazonaws.com/icons-temp/image28.png" />Separation</p>
 <p><img width="100" src="https://kinlane-productions2.s3.amazonaws.com/icons-temp/image303.png" />Serverless</p>
@@ -352,5 +353,4 @@ This is a list of icons for the API space.
 <p><img width="100" src="https://kinlane-productions2.s3.amazonaws.com/icons-temp/image333.png" />Mass Assignment</p>
 <p><img width="100" src="https://kinlane-productions2.s3.amazonaws.com/icons-temp/image298.png" />OWASP Top 10</p>
 <p><img width="100" src="https://kinlane-productions2.s3.amazonaws.com/icons-temp/image168.png" />Security Misconfiguration</p>
-<p><img width="100" src="https://kinlane-productions2.s3.amazonaws.com/icons-temp/image350.png" />Selection Sets</p>
 <p><img width="100" src="https://kinlane-productions2.s3.amazonaws.com/icons-temp/image96.png" />System for Cross-domain Identity Management (SCIM)</p>
